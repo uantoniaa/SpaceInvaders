@@ -21,7 +21,7 @@ Space Invaders is a classic arcade game recreated using Arduino. This project de
 - `EEPROM.h` for reading and writing to Arduino's EEPROM.
 
 ## Game Features
-- Multiple levels with increasing difficulty.
+- Multiple levels with increasing difficulty (it doesn't work right now)
 - High score tracking and saving.
 - Customizable player settings.
 - Sound effects for an immersive experience.
