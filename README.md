@@ -45,7 +45,7 @@ The game uses EEPROM to store high scores and player settings, ensuring that you
 ![WhatsApp Image 2023-12-20 at 16 14 13_7fb633a7](https://github.com/uantoniaa/SpaceInvaders/assets/93488180/1eb76e2b-32b0-4af5-a320-b283bcbd50f6)
 
 ## Video 
-[!Space Invaders - Video ](https://youtu.be/jYCBzDWW0-E)
+[Space Invaders - Video ](https://youtu.be/jYCBzDWW0-E)
 
 ## Code 
 
